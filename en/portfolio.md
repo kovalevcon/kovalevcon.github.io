@@ -9,6 +9,8 @@ permalink: /en/portfolio/
 
 * <a href="https://ktpay.kz/" target="_blank">ktpay.kz</a> - "Ktpay.kz" electronic wallet payment service;
 
+* <a href="https://telecom.kz/">telecom.kz</a> - "Telecom.kz" payment widget in the upper right of the site;
+
 * <a href="https://paybox.money/" target="_blank">paybox.money</a> - "Paybox.money" Payment system integrator;
 
 * <a href="http://gderebenok.kz/" target="_blank">gderebenok.kz</a> - "Gde rebenok" GPS monitoring for the whole family;

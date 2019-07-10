@@ -58,6 +58,7 @@ practical tasks for the course Hackerrank
 
 * Social networks, resume:    
     * UpWork: <a href="https://www.upwork.com/o/profiles/users/_~0128a1dc81eb1d7ba1/" target="_blank">link</a>
+    * Moikrug: <a href="https://moikrug.ru/kovalevcon" target="_blank">link</a>
     * HeadHunter: 
 <a href="https://hh.kz/applicant/resumes/view?resume=06112c84ff0108ba950039ed1f553835676d74" target="_blank">link</a>
     * LinkedIn: <a href="https://www.linkedin.com/in/constantine-kovalev-474859bb/" target="_blank">link</a>

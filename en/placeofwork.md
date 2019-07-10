@@ -119,7 +119,7 @@ Places of work are arranged in order from fresh to old.
 
 * **Working hours**: July 2016 — March 2017 (9 month)
 
-* **Duties**: 
+* **Duties**:
 
     Participation in project development "HealthBook" 
     <a href="https://healthbook.kz/" target="_blank">link</a>.   
@@ -193,7 +193,7 @@ Places of work are arranged in order from fresh to old.
     Administration of the MariaDB 10.1 database: creating/editing tables, creating indexes and foreign keys,
     writing complex SQL query for reporting selection.
 
-* **Used tools and technologies**: 
+* **Used tools and technologies**:
 
     * PHP 5.6-7.0, Laravel 5;
     * DBMS MariaDB 10.1, DBForge;
@@ -206,7 +206,7 @@ Places of work are arranged in order from fresh to old.
     <a href="https://leafletjs.com/" target="_blank">leafletjs.com</a> to create multiple layers of maps.
     * Maintaining tasks in Bitrix24.
 
-* **Projects**: 
+* **Projects**:
 
     Major project "Gde rebenok" <a href="http://gderebenok.kz/" target="_blank">gderebenok.kz</a>.
 
@@ -232,7 +232,7 @@ Places of work are arranged in order from fresh to old.
 
 * **Working hours**: March 2012 — June 2014 (2 years 4 month)
 
-* **Duties**: 
+* **Duties**:
 
     * Development of information and entertainment products for mobile operators in Kazakhstan: Kcell/Activ,
     Beeline. Main Products: SMS Subscriptions, USSD Quiz, Local Location Based Application Services
@@ -292,7 +292,7 @@ Places of work are arranged in order from fresh to old.
 
 * **Working hours**: November 2010 — March 2012 (1 year 5 month)
 
-* **Duties**: 
+* **Duties**:
 
     * Tracking the performance of the access control system in the Orion software room.
 
@@ -306,13 +306,13 @@ Places of work are arranged in order from fresh to old.
 
     * Tracking and response to applications for tenders.
 
-* **Used tools and technologies**: 
+* **Used tools and technologies**:
 
     * Software "Orion" for access control;
     * Software "Assure ID" for printing on Fargo printer;
     * Microsoft Access DBMS for storing data of ISIC card users.
 
-* **Projects**: 
+* **Projects**:
 
     * Participated in setting up and administering an ACS based on the Orion software at the place of operation of
      the organization ALE "KazRENA".

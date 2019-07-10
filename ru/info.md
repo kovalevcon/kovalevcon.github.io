@@ -47,7 +47,7 @@ permalink: /ru/info/
 * Код:
     * GitHub: <a href="https://github.com/kovalevcon" target="_blank">ссылка</a>
     * GitLab: <a href="https://gitlab.com/kovalevcon" target="_blank">ссылка</a>
-    
+
 * Обучение, задачи, тесты:
     * HackerRank: <a href="https://www.hackerrank.com/zilich08" target="_blank">ссылка</a>
     * CodeWars: <a href="https://www.codewars.com/users/kovalevcon" target="_blank">ссылка</a>
@@ -55,9 +55,10 @@ permalink: /ru/info/
     * LeetCode: <a href="https://leetcode.com/kovalevcon/" target="_blank">ссылка</a>
     * CodeAcademy: <a href="https://www.codecademy.com/kovalevcon" target="_blank">ссылка</a>
     * CodeSignal: <a href="https://app.codesignal.com/profile/kovalevcon/overview" target="_blank">ссылка</a>
-    
+
 * Соц. сети, резюме:    
     * UpWork: <a href="https://www.upwork.com/o/profiles/users/_~0128a1dc81eb1d7ba1/" target="_blank">ссылка</a>
+    * Мой круг: <a href="https://moikrug.ru/kovalevcon" target="_blank">link</a>
     * HeadHunter: 
 <a href="https://hh.kz/applicant/resumes/view?resume=06112c84ff0108ba950039ed1f553835676d74" target="_blank">ссылка</a>
     * LinkedIn: <a href="https://www.linkedin.com/in/constantine-kovalev-474859bb/" target="_blank">ссылка</a>

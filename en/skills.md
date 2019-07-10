@@ -38,6 +38,7 @@ Skills are categorized according to affiliation.
     * Managers: DBeaver, DBForge, MySQL Workbench.
 * MongoDB;
     * Managers: Robo 3T.
+* SQLite;
 * Microsoft Access;
 * SQL - writing queries, triggers, procedures.
 
@@ -76,6 +77,7 @@ Skills are categorized according to affiliation.
 * HTML5;
 * CSS3;
 * Bootstrap 3;
+* Jekyll;
 * Module builders: WebPack, Laravel Mix, Gulp.
 
 ## Editors
